@@ -3,7 +3,7 @@
 ## Developer & Marketing Manager
 - 💬 Ask me about: Hello, I'm Büşra. I am 20 years old. I am studying software engineering at Konya Technical University. 
  I am working as a marketing manager at Nibgat. I love development, research.
-- 🔭 I’m currently working on Marketing Manager.
+- 🔭 I am currently working as a Marketing Manager.
 - 🌱 I’m currently learning  C.
 - 🌱 I’m learning UI.
 
