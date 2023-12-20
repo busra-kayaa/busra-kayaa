@@ -1,4 +1,4 @@
-### Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Welcome to my GitHub profile
+## Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Welcome to my GitHub profile
 # Büşra KAYA
 ## Software Engineering Student & Marketing Manager
  Hello, I'm Büşra. I am 20 years old. I am studying software engineering at Konya Technical University. 
