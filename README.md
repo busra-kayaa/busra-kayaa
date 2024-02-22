@@ -5,7 +5,8 @@
  I am working as a marketing manager at Nibgat. I love development, research.
 - 🔭 I am currently working as a Marketing Manager.
 - 🌱 I’m learning  C.
-- 🌱 I’m currently learning  Java.
+- 🌱 I’m learning  Java.
+- 🌱 I’m currently learning  Python.
 - 🌱 I’m learning UI.
 
 ### Skills
