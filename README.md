@@ -6,8 +6,8 @@
 - 🔭 I am currently working as a Marketing Manager.
 - 🌱 I’m learning  C.
 - 🌱 I’m learning  Java.
-- 🌱 I’m currently learning  Python.
-- 🌱 I’m learning UI.
+- 🌱 I’m currently learning React.
+- 🌱 I’m learning Python.
 
 ### Skills
 [![c3](https://user-images.githubusercontent.com/96542141/223508444-9738dca6-3c2d-425d-8dc9-d0cde69d24ce.png)](https://tr.wikipedia.org/wiki/C_(programlama_dili))
